@@ -1,2 +1,2 @@
-# Receita
-ATIVIDADE - RECEITA
+# Atividades de programação
+
